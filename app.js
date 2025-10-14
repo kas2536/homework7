@@ -2,7 +2,7 @@ console.log('Hello World!');
 
 // Step 3: Define Variables for User Data
 let name = "Kacy Souvanna";
-const hasDownloadedResume = { value: false }; // Object to allow mutation while using const
+const hasDownloadedResume = { value: false }; 
 
 // Step 4: Display Personalized Greeting
 function showGreeting(name) {
